@@ -1,0 +1,10 @@
+insert into Category values(1,"Laptops","Personal Usage");
+insert into Category values(2,"Cell Phones","Communication");
+insert into Category values(3,"Camera","Photography");
+insert into Category values(4,"Hard Disks","Data Storage");
+insert into Category values(5,"Printers","Copying Purpose");
+insert into Category values(6,"Mice","Pointing Device");
+insert into Category values(7,"Keyboard","Input Device");
+insert into Category values(8,"Tablets","Data Purpose");
+insert into Category values(9,"TV and Others","News");
+insert into Category values(10,"MotherBoard","Hardware Component");

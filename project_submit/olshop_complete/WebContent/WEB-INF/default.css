@@ -1,0 +1,140 @@
+body {
+margin: 0px;
+padding: 0px;
+background-color: #003399;
+align:center;
+}
+
+td{
+font-family: Verdana;
+font-size: 16px;
+color: #8B8B8B;
+}
+
+
+input {
+font-family:  Arial;
+font-size: 11px;
+color: #8B8B8B;
+}
+
+
+#labelfoot{
+background: url(images/img3.jpg) no-repeat;
+width: 780px;
+height: relative;
+padding-top: 40px;
+}
+
+
+
+
+#header{
+	width:997px;
+	height:115px;
+	padding-top:0px;
+	align:center;
+	background-color: black;
+	padding-bottom: 0px;
+	border-color:#0099cc;
+	border-style:solid;
+	font-color: white;
+	font-family: Comic Sans MS;
+}
+
+#bodypart{
+	width:997px;
+	height: 500px;
+	align:center;
+	background-color:#FFFFFF;
+	padding-top:10px;
+	padding-bottom:30px;
+	border-width: 1px 2px 2px 2px;
+	border-color:#0099cc;
+	border-style:solid;
+}
+
+#text1{
+letter-spacing: -1px;
+padding-left: 50px;
+font-size: 20px;
+color: #333333;
+font-family: Arial, Helvetica, sans-serif;
+text-transform: uppercase;
+color: #315931;
+	
+}
+ 
+
+#headerImage {
+background: url(images/school_name.jpg) no-repeat;
+width:997px;
+height:93px;
+padding-left:500px;
+}
+
+
+
+#link1{
+background: url(images/img12.gif) no-repeat left 85%;
+padding-top: 15px;
+padding-left: 15px;
+font-family: Arial, Helvetica, sans-serif;
+text-transform: uppercase;
+text-decoration: none;
+font-weight: bold;
+font-size: 14px;
+color: #315931;
+}
+
+#link2{
+padding-top: 15px;
+padding-left: 15px;
+font-family: Arial, Helvetica, sans-serif;
+text-transform: uppercase;
+text-decoration: none;
+font-weight: bold;
+font-size: 14px;
+color: #315931;
+}
+
+#link3{
+padding-top: 5px;
+padding-left: 5px;
+font-family: Arial, Helvetica, sans-serif;
+text-transform: uppercase;
+text-decoration: none;
+font-weight: bold;
+font-size: 14px;
+color: #315931;
+}
+
+#text7 {
+padding-left: 15px;
+letter-spacing:1px;
+font-size: 18px;
+color: #579A64;
+
+}
+
+#test5 {
+
+text-align: center;
+font-size: 10px;
+color: #66AB6A;
+}
+
+#content {
+font-family: Verdana,;
+font-size: 11px;
+}
+#position {
+	height:relative;
+	align:center;
+}
+	
+
+ 
+ 
+ 
+ 

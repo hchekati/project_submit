@@ -1,0 +1,720 @@
+928	user1	2015-03-16	Request for iMac	Solved
+745	user2	2015-03-3	Request for iPhone Charger	Solved
+964	user3	2015-03-26	Request for iMac	Solved
+252	user4	2015-03-24	Request for GalaXy S 5	Process
+984	user5	2015-03-22	Request for Dell XPS	Solved
+816	user6	2015-03-23	Request for Update Invetory for Speakers	Process
+37	user7	2015-03-16	Request for Hard Drive- Seagate	Solved
+291	user8	2015-03-12	Request for Update Invetory for Speakers	Solved
+140	user9	2015-03-4	Request for iPhone 5s	Process
+147	user10	2015-03-4	Request for 14 inch tablets	Solved
+173	user11	2015-03-26	Request for Update Invetory for Speakers	Process
+956	user12	2015-03-17	Request for Dell XPS	Process
+861	user13	2015-03-14	Request for iMac	Process
+231	user14	2015-03-4	Request for Update Invetory for Speakers	Process
+790	user15	2015-03-1	Request for Music Player	Solved
+33	user16	2015-03-8	Request for Mice	Solved
+267	user17	2015-03-18	Request for 14 inch tablets	Solved
+553	user18	2015-03-4	Request for Dell XPS	Process
+558	user19	2015-03-5	Request for iPhone Charger	Solved
+524	user20	2015-03-17	Request for Microst mouse and keyboard	Solved
+585	user21	2015-03-27	Request for iPad Air	Solved
+731	user22	2015-03-14	Request for Mice	Solved
+821	user23	2015-03-2	Request for iMac	Process
+587	user24	2015-03-19	Request for iPhone 5s	Solved
+600	user25	2015-03-26	Request for Update Invetory for Speakers	Process
+739	user26	2015-03-2	Request for Microst mouse and keyboard	Solved
+630	user27	2015-03-10	Request for 14 inch tablets	Process
+982	user28	2015-03-19	Request for iPad Air	Process
+901	user29	2015-03-20	Request for iPhone 5s	Solved
+740	user30	2015-03-13	Request for iPhone Charger	Solved
+509	user31	2015-03-17	Request for Dell XPS	Solved
+591	user32	2015-03-16	Request for iMac	Solved
+460	user33	2015-03-28	Request for iPhone Charger	Solved
+70	user34	2015-03-1	Request for iPhone 5s	Process
+926	user35	2015-03-20	Request for iMac	Process
+996	user36	2015-03-27	Request for iPhone 5s	Process
+562	user37	2015-03-25	Request for Update Invetory for Speakers	Solved
+151	user38	2015-03-2	Request for Music Player	Process
+104	user39	2015-03-15	Request for Music Player	Process
+826	user40	2015-03-17	Request for Update Invetory for Speakers	Process
+159	user41	2015-03-21	Request for Dell XPS	Process
+198	user42	2015-03-19	Request for iPhone 5s	Process
+520	user43	2015-03-25	Request for GalaXy S 5	Process
+794	user44	2015-03-16	Request for GalaXy S 5	Solved
+533	user45	2015-03-11	Request for Update Invetory for Speakers	Process
+371	user46	2015-03-10	Request for iPad Air	Process
+564	user47	2015-03-1	Request for 14 inch tablets	Process
+424	user48	2015-03-17	Request for Microst mouse and keyboard	Solved
+678	user49	2015-03-27	Request for Update Invetory for Speakers	Process
+537	user50	2015-03-12	Request for GalaXy S 5	Process
+925	user51	2015-03-9	Request for iPhone Charger	Solved
+244	user52	2015-03-25	Request for iPhone Charger	Solved
+110	user53	2015-03-1	Request for Dell XPS	Solved
+357	user54	2015-03-12	Request for Dell XPS	Solved
+76	user55	2015-03-12	Request for GalaXy S 5	Process
+987	user56	2015-03-27	Request for Update Invetory for Speakers	Process
+846	user57	2015-03-16	Request for Update Invetory for Speakers	Process
+22	user58	2015-03-4	Request for iPhone 5s	Process
+77	user59	2015-03-4	Request for Update Invetory for Speakers	Process
+826	user60	2015-03-25	Request for iPad Air	Process
+774	user61	2015-03-27	Request for 14 inch tablets	Process
+632	user62	2015-03-27	Request for Update Invetory for Speakers	Solved
+947	user63	2015-03-26	Request for iPad Air	Solved
+628	user64	2015-03-9	Request for Music Player	Process
+162	user65	2015-03-27	Request for Update Invetory for Speakers	Process
+802	user66	2015-03-11	Request for iPad Air	Process
+962	user67	2015-03-5	Request for Mice	Solved
+479	user68	2015-03-25	Request for Update Invetory for Speakers	Process
+21	user69	2015-03-3	Request for Hard Drive- Seagate	Process
+513	user70	2015-03-10	Request for iPhone Charger	Solved
+571	user71	2015-03-25	Request for iPad Air	Process
+853	user72	2015-03-19	Request for iPhone Charger	Solved
+321	user73	2015-03-12	Request for Microst mouse and keyboard	Solved
+632	user74	2015-03-5	Request for GalaXy S 5	Solved
+972	user75	2015-03-27	Request for Hard Drive- Seagate	Solved
+506	user76	2015-03-7	Request for iMac	Process
+846	user77	2015-03-4	Request for GalaXy S 5	Solved
+690	user78	2015-03-3	Request for GalaXy S 5	Solved
+464	user79	2015-03-14	Request for iPhone Charger	Solved
+356	user80	2015-03-5	Request for GalaXy S 5	Process
+178	user81	2015-03-20	Request for 14 inch tablets	Solved
+648	user82	2015-03-23	Request for iPad Air	Process
+805	user83	2015-03-12	Request for iMac	Process
+707	user84	2015-03-16	Request for iPad Air	Solved
+614	user85	2015-03-11	Request for Mice	Solved
+692	user86	2015-03-16	Request for Dell XPS	Solved
+387	user87	2015-03-28	Request for GalaXy S 5	Solved
+874	user88	2015-03-10	Request for iPhone Charger	Solved
+72	user89	2015-03-8	Request for Microst mouse and keyboard	Solved
+785	user90	2015-03-3	Request for GalaXy S 5	Process
+424	user91	2015-03-19	Request for Music Player	Solved
+94	user92	2015-03-1	Request for Music Player	Process
+43	user93	2015-03-16	Request for iPhone 5s	Solved
+540	user94	2015-03-9	Request for GalaXy S 5	Process
+825	user95	2015-03-9	Request for 14 inch tablets	Process
+137	user96	2015-03-24	Request for Mice	Process
+903	user97	2015-03-12	Request for Music Player	Process
+993	user98	2015-03-8	Request for Microst mouse and keyboard	Solved
+87	user99	2015-03-23	Request for Dell XPS	Solved
+127	user100	2015-03-11	Request for Dell XPS	Process
+109	user101	2015-03-26	Request for Microst mouse and keyboard	Solved
+922	user102	2015-03-23	Request for iPhone Charger	Process
+556	user103	2015-03-12	Request for iPhone Charger	Process
+503	user104	2015-03-24	Request for iPad Air	Process
+568	user105	2015-03-19	Request for iPad Air	Solved
+632	user106	2015-03-27	Request for Mice	Process
+569	user107	2015-03-20	Request for iPhone Charger	Process
+259	user108	2015-03-21	Request for GalaXy S 5	Solved
+170	user109	2015-03-7	Request for Hard Drive- Seagate	Solved
+957	user110	2015-03-8	Request for Microst mouse and keyboard	Process
+576	user111	2015-03-2	Request for Dell XPS	Solved
+209	user112	2015-03-1	Request for 14 inch tablets	Solved
+939	user113	2015-03-5	Request for iPhone Charger	Process
+426	user114	2015-03-21	Request for Update Invetory for Speakers	Process
+798	user115	2015-03-8	Request for Dell XPS	Solved
+862	user116	2015-03-7	Request for GalaXy S 5	Solved
+120	user117	2015-03-2	Request for Music Player	Solved
+106	user118	2015-03-18	Request for Music Player	Solved
+298	user119	2015-03-20	Request for 14 inch tablets	Solved
+327	user120	2015-03-10	Request for GalaXy S 5	Process
+370	user121	2015-03-19	Request for iMac	Solved
+46	user122	2015-03-16	Request for 14 inch tablets	Solved
+698	user123	2015-03-5	Request for 14 inch tablets	Process
+476	user124	2015-03-14	Request for iMac	Process
+139	user125	2015-03-17	Request for Music Player	Solved
+420	user126	2015-03-7	Request for iPhone 5s	Solved
+984	user127	2015-03-22	Request for 14 inch tablets	Process
+806	user128	2015-03-24	Request for iPhone 5s	Process
+935	user129	2015-03-24	Request for Dell XPS	Solved
+762	user130	2015-03-12	Request for iMac	Process
+382	user131	2015-03-14	Request for Microst mouse and keyboard	Solved
+436	user132	2015-03-17	Request for GalaXy S 5	Solved
+227	user133	2015-03-24	Request for Hard Drive- Seagate	Solved
+335	user134	2015-03-14	Request for Music Player	Process
+770	user135	2015-03-10	Request for Hard Drive- Seagate	Solved
+225	user136	2015-03-3	Request for Music Player	Solved
+390	user137	2015-03-5	Request for iMac	Solved
+61	user138	2015-03-18	Request for Hard Drive- Seagate	Process
+772	user139	2015-03-22	Request for Update Invetory for Speakers	Solved
+535	user140	2015-03-4	Request for iMac	Process
+867	user141	2015-03-8	Request for GalaXy S 5	Process
+703	user142	2015-03-2	Request for Dell XPS	Process
+48	user143	2015-03-7	Request for 14 inch tablets	Process
+419	user144	2015-03-3	Request for iPad Air	Process
+615	user145	2015-03-6	Request for iPad Air	Solved
+318	user146	2015-03-6	Request for iMac	Process
+400	user147	2015-03-23	Request for Microst mouse and keyboard	Process
+255	user148	2015-03-3	Request for 14 inch tablets	Solved
+529	user149	2015-03-21	Request for iPhone Charger	Solved
+802	user150	2015-03-15	Request for Microst mouse and keyboard	Process
+429	user151	2015-03-17	Request for Mice	Solved
+671	user152	2015-03-22	Request for GalaXy S 5	Process
+25	user153	2015-03-20	Request for 14 inch tablets	Process
+477	user154	2015-03-5	Request for Microst mouse and keyboard	Process
+148	user155	2015-03-21	Request for Music Player	Solved
+873	user156	2015-03-16	Request for GalaXy S 5	Process
+914	user157	2015-03-1	Request for Hard Drive- Seagate	Solved
+234	user158	2015-03-4	Request for Hard Drive- Seagate	Process
+346	user159	2015-03-15	Request for Update Invetory for Speakers	Process
+832	user160	2015-03-24	Request for 14 inch tablets	Process
+754	user161	2015-03-7	Request for Hard Drive- Seagate	Process
+476	user162	2015-03-25	Request for Hard Drive- Seagate	Process
+528	user163	2015-03-9	Request for Mice	Solved
+254	user164	2015-03-25	Request for iPhone 5s	Process
+523	user165	2015-03-17	Request for Update Invetory for Speakers	Solved
+28	user166	2015-03-27	Request for Hard Drive- Seagate	Solved
+579	user167	2015-03-23	Request for iPhone 5s	Process
+432	user168	2015-03-22	Request for 14 inch tablets	Process
+368	user169	2015-03-24	Request for iPhone 5s	Solved
+751	user170	2015-03-15	Request for Microst mouse and keyboard	Solved
+130	user171	2015-03-18	Request for Mice	Process
+177	user172	2015-03-1	Request for iPhone 5s	Solved
+883	user173	2015-03-7	Request for iPad Air	Solved
+252	user174	2015-03-1	Request for Mice	Solved
+492	user175	2015-03-11	Request for iPhone Charger	Solved
+574	user176	2015-03-26	Request for iPad Air	Process
+308	user177	2015-03-3	Request for Hard Drive- Seagate	Process
+454	user178	2015-03-27	Request for Dell XPS	Process
+57	user179	2015-03-6	Request for Music Player	Solved
+684	user180	2015-03-24	Request for GalaXy S 5	Process
+125	user181	2015-03-1	Request for iPad Air	Solved
+432	user182	2015-03-22	Request for Dell XPS	Solved
+76	user183	2015-03-1	Request for Mice	Process
+973	user184	2015-03-18	Request for iPhone 5s	Process
+320	user185	2015-03-7	Request for iPad Air	Solved
+249	user186	2015-03-7	Request for iPhone Charger	Solved
+227	user187	2015-03-16	Request for iMac	Process
+972	user188	2015-03-22	Request for Update Invetory for Speakers	Solved
+224	user189	2015-03-23	Request for Mice	Process
+460	user190	2015-03-7	Request for Music Player	Solved
+100	user191	2015-03-19	Request for Microst mouse and keyboard	Process
+32	user192	2015-03-15	Request for iPad Air	Solved
+526	user193	2015-03-3	Request for Update Invetory for Speakers	Process
+470	user194	2015-03-28	Request for Microst mouse and keyboard	Solved
+45	user195	2015-03-3	Request for iPhone Charger	Process
+575	user196	2015-03-5	Request for Microst mouse and keyboard	Solved
+507	user197	2015-03-7	Request for iPhone 5s	Solved
+573	user198	2015-03-19	Request for Hard Drive- Seagate	Solved
+814	user199	2015-03-8	Request for iMac	Solved
+990	user200	2015-03-14	Request for Dell XPS	Process
+823	user201	2015-03-16	Request for Update Invetory for Speakers	Solved
+206	user202	2015-03-28	Request for 14 inch tablets	Process
+72	user203	2015-03-10	Request for Update Invetory for Speakers	Process
+846	user204	2015-03-7	Request for iPhone 5s	Solved
+832	user205	2015-03-1	Request for iPad Air	Process
+468	user206	2015-03-24	Request for iPhone Charger	Process
+963	user207	2015-03-25	Request for Dell XPS	Process
+130	user208	2015-03-28	Request for Microst mouse and keyboard	Solved
+957	user209	2015-03-16	Request for Microst mouse and keyboard	Process
+213	user210	2015-03-10	Request for 14 inch tablets	Solved
+189	user211	2015-03-3	Request for iPad Air	Solved
+257	user212	2015-03-12	Request for Update Invetory for Speakers	Solved
+571	user213	2015-03-6	Request for iPad Air	Process
+227	user214	2015-03-15	Request for GalaXy S 5	Solved
+26	user215	2015-03-13	Request for Microst mouse and keyboard	Process
+782	user216	2015-03-7	Request for Mice	Solved
+733	user217	2015-03-24	Request for 14 inch tablets	Process
+408	user218	2015-03-5	Request for Music Player	Solved
+735	user219	2015-03-1	Request for Dell XPS	Solved
+62	user220	2015-03-27	Request for Dell XPS	Solved
+134	user221	2015-03-2	Request for iPhone Charger	Solved
+78	user222	2015-03-24	Request for iPad Air	Process
+453	user223	2015-03-10	Request for 14 inch tablets	Process
+272	user224	2015-03-25	Request for Update Invetory for Speakers	Solved
+127	user225	2015-03-1	Request for 14 inch tablets	Process
+315	user226	2015-03-18	Request for iMac	Process
+496	user227	2015-03-10	Request for 14 inch tablets	Solved
+318	user228	2015-03-16	Request for iMac	Solved
+769	user229	2015-03-17	Request for GalaXy S 5	Solved
+783	user230	2015-03-25	Request for iPhone 5s	Solved
+680	user231	2015-03-2	Request for Dell XPS	Solved
+541	user232	2015-03-18	Request for Hard Drive- Seagate	Process
+326	user233	2015-03-9	Request for Hard Drive- Seagate	Process
+680	user234	2015-03-10	Request for Dell XPS	Process
+111	user235	2015-03-27	Request for iPhone Charger	Solved
+599	user236	2015-03-28	Request for 14 inch tablets	Solved
+421	user237	2015-03-6	Request for GalaXy S 5	Solved
+375	user238	2015-03-17	Request for Music Player	Process
+441	user239	2015-03-5	Request for Mice	Solved
+193	user240	2015-03-11	Request for iPad Air	Process
+116	user241	2015-03-22	Request for Music Player	Solved
+205	user242	2015-03-20	Request for 14 inch tablets	Process
+935	user243	2015-03-16	Request for iMac	Solved
+898	user244	2015-03-12	Request for Dell XPS	Process
+522	user245	2015-03-26	Request for iMac	Solved
+67	user246	2015-03-24	Request for Microst mouse and keyboard	Solved
+640	user247	2015-03-18	Request for Dell XPS	Process
+112	user248	2015-03-22	Request for iPhone Charger	Solved
+162	user249	2015-03-12	Request for Microst mouse and keyboard	Process
+715	user250	2015-03-14	Request for Mice	Process
+759	user251	2015-03-3	Request for iPad Air	Solved
+577	user252	2015-03-17	Request for GalaXy S 5	Process
+253	user253	2015-03-4	Request for Hard Drive- Seagate	Solved
+81	user254	2015-03-24	Request for GalaXy S 5	Solved
+157	user255	2015-03-9	Request for 14 inch tablets	Process
+140	user256	2015-03-13	Request for 14 inch tablets	Process
+221	user257	2015-03-3	Request for iMac	Solved
+34	user258	2015-03-14	Request for Microst mouse and keyboard	Process
+579	user259	2015-03-2	Request for Microst mouse and keyboard	Process
+705	user260	2015-03-23	Request for iMac	Process
+60	user261	2015-03-4	Request for GalaXy S 5	Solved
+420	user262	2015-03-22	Request for Mice	Process
+64	user263	2015-03-7	Request for iPad Air	Solved
+383	user264	2015-03-11	Request for iPhone Charger	Process
+772	user265	2015-03-28	Request for Hard Drive- Seagate	Solved
+342	user266	2015-03-2	Request for Music Player	Process
+651	user267	2015-03-25	Request for iPhone 5s	Solved
+811	user268	2015-03-19	Request for iPhone Charger	Solved
+847	user269	2015-03-4	Request for iPhone 5s	Solved
+607	user270	2015-03-17	Request for iPhone Charger	Solved
+808	user271	2015-03-15	Request for 14 inch tablets	Process
+827	user272	2015-03-25	Request for 14 inch tablets	Process
+719	user273	2015-03-9	Request for iPad Air	Solved
+304	user274	2015-03-8	Request for iPad Air	Solved
+941	user275	2015-03-26	Request for Dell XPS	Solved
+713	user276	2015-03-2	Request for 14 inch tablets	Process
+755	user277	2015-03-24	Request for Mice	Solved
+165	user278	2015-03-1	Request for 14 inch tablets	Solved
+346	user279	2015-03-18	Request for Mice	Process
+139	user280	2015-03-6	Request for Dell XPS	Process
+245	user281	2015-03-24	Request for iPad Air	Solved
+304	user282	2015-03-27	Request for Music Player	Solved
+56	user283	2015-03-6	Request for GalaXy S 5	Solved
+813	user284	2015-03-4	Request for iPhone 5s	Process
+200	user285	2015-03-10	Request for Microst mouse and keyboard	Solved
+383	user286	2015-03-15	Request for GalaXy S 5	Process
+155	user287	2015-03-17	Request for Dell XPS	Process
+66	user288	2015-03-1	Request for Dell XPS	Process
+552	user289	2015-03-24	Request for iPhone Charger	Process
+324	user290	2015-03-10	Request for Microst mouse and keyboard	Process
+646	user291	2015-03-26	Request for Mice	Solved
+595	user292	2015-03-15	Request for Dell XPS	Process
+322	user293	2015-03-1	Request for Music Player	Solved
+364	user294	2015-03-1	Request for Mice	Solved
+197	user295	2015-03-24	Request for Hard Drive- Seagate	Solved
+467	user296	2015-03-6	Request for iPad Air	Solved
+372	user297	2015-03-21	Request for iPhone Charger	Solved
+527	user298	2015-03-8	Request for iPhone Charger	Process
+145	user299	2015-03-1	Request for Update Invetory for Speakers	Solved
+342	user300	2015-03-9	Request for Music Player	Solved
+232	user301	2015-03-1	Request for iMac	Solved
+75	user302	2015-03-10	Request for iPhone Charger	Solved
+513	user303	2015-03-24	Request for Dell XPS	Solved
+651	user304	2015-03-18	Request for Music Player	Process
+138	user305	2015-03-27	Request for GalaXy S 5	Solved
+252	user306	2015-03-9	Request for GalaXy S 5	Process
+665	user307	2015-03-4	Request for iPad Air	Process
+903	user308	2015-03-21	Request for Microst mouse and keyboard	Process
+837	user309	2015-03-10	Request for iPad Air	Process
+438	user310	2015-03-27	Request for iPad Air	Process
+852	user311	2015-03-18	Request for GalaXy S 5	Solved
+134	user312	2015-03-3	Request for iPhone Charger	Process
+600	user313	2015-03-1	Request for GalaXy S 5	Solved
+274	user314	2015-03-14	Request for Mice	Solved
+109	user315	2015-03-19	Request for Update Invetory for Speakers	Solved
+319	user316	2015-03-20	Request for Microst mouse and keyboard	Solved
+942	user317	2015-03-21	Request for Hard Drive- Seagate	Process
+927	user318	2015-03-24	Request for Microst mouse and keyboard	Solved
+322	user319	2015-03-4	Request for Microst mouse and keyboard	Process
+231	user320	2015-03-16	Request for Hard Drive- Seagate	Process
+539	user321	2015-03-2	Request for Mice	Process
+812	user322	2015-03-11	Request for Hard Drive- Seagate	Process
+245	user323	2015-03-11	Request for Mice	Process
+123	user324	2015-03-22	Request for iPad Air	Process
+539	user325	2015-03-5	Request for Hard Drive- Seagate	Solved
+301	user326	2015-03-8	Request for iPhone 5s	Solved
+228	user327	2015-03-27	Request for Microst mouse and keyboard	Solved
+916	user328	2015-03-18	Request for Hard Drive- Seagate	Solved
+461	user329	2015-03-2	Request for Dell XPS	Process
+504	user330	2015-03-8	Request for Dell XPS	Process
+554	user331	2015-03-5	Request for iPhone 5s	Solved
+424	user332	2015-03-4	Request for 14 inch tablets	Solved
+420	user333	2015-03-1	Request for 14 inch tablets	Solved
+355	user334	2015-03-20	Request for iPhone 5s	Solved
+699	user335	2015-03-22	Request for Update Invetory for Speakers	Solved
+460	user336	2015-03-17	Request for Microst mouse and keyboard	Process
+993	user337	2015-03-25	Request for Update Invetory for Speakers	Solved
+563	user338	2015-03-15	Request for Mice	Solved
+192	user339	2015-03-2	Request for Music Player	Process
+197	user340	2015-03-6	Request for iPad Air	Solved
+716	user341	2015-03-6	Request for Mice	Solved
+678	user342	2015-03-21	Request for iPhone 5s	Solved
+743	user343	2015-03-25	Request for Update Invetory for Speakers	Process
+664	user344	2015-03-9	Request for Update Invetory for Speakers	Process
+142	user345	2015-03-8	Request for GalaXy S 5	Solved
+807	user346	2015-03-9	Request for iPhone Charger	Process
+339	user347	2015-03-20	Request for iPad Air	Solved
+217	user348	2015-03-16	Request for Mice	Process
+613	user349	2015-03-23	Request for GalaXy S 5	Solved
+421	user350	2015-03-24	Request for iPhone Charger	Process
+265	user351	2015-03-11	Request for Mice	Solved
+812	user352	2015-03-24	Request for Dell XPS	Solved
+140	user353	2015-03-6	Request for Dell XPS	Process
+779	user354	2015-03-18	Request for Mice	Solved
+102	user355	2015-03-23	Request for Mice	Solved
+248	user356	2015-03-25	Request for Mice	Process
+541	user357	2015-03-3	Request for Music Player	Solved
+615	user358	2015-03-20	Request for Microst mouse and keyboard	Solved
+147	user359	2015-03-8	Request for iPhone 5s	Solved
+731	user360	2015-03-15	Request for iPhone 5s	Process
+537	user361	2015-03-14	Request for iPad Air	Solved
+872	user362	2015-03-27	Request for 14 inch tablets	Process
+943	user363	2015-03-6	Request for iPhone 5s	Process
+983	user364	2015-03-27	Request for Dell XPS	Solved
+658	user365	2015-03-9	Request for 14 inch tablets	Process
+665	user366	2015-03-24	Request for iPhone 5s	Process
+742	user367	2015-03-19	Request for Update Invetory for Speakers	Process
+56	user368	2015-03-28	Request for Microst mouse and keyboard	Process
+677	user369	2015-03-10	Request for iPhone 5s	Solved
+577	user370	2015-03-21	Request for Microst mouse and keyboard	Process
+810	user371	2015-03-5	Request for iPad Air	Solved
+137	user372	2015-03-28	Request for iPhone 5s	Solved
+636	user373	2015-03-25	Request for Music Player	Process
+933	user374	2015-03-2	Request for 14 inch tablets	Process
+951	user375	2015-03-5	Request for Dell XPS	Process
+405	user376	2015-03-17	Request for GalaXy S 5	Solved
+233	user377	2015-03-6	Request for iPhone Charger	Solved
+53	user378	2015-03-6	Request for Music Player	Solved
+418	user379	2015-03-9	Request for GalaXy S 5	Process
+23	user380	2015-03-10	Request for iPad Air	Process
+306	user381	2015-03-8	Request for iPhone 5s	Process
+194	user382	2015-03-22	Request for iPhone 5s	Solved
+841	user383	2015-03-14	Request for iPhone Charger	Solved
+282	user384	2015-03-8	Request for iMac	Solved
+323	user385	2015-03-13	Request for GalaXy S 5	Process
+939	user386	2015-03-2	Request for Update Invetory for Speakers	Process
+254	user387	2015-03-24	Request for Update Invetory for Speakers	Process
+655	user388	2015-03-11	Request for Hard Drive- Seagate	Solved
+125	user389	2015-03-16	Request for iPad Air	Solved
+531	user390	2015-03-24	Request for Dell XPS	Process
+344	user391	2015-03-20	Request for GalaXy S 5	Solved
+150	user392	2015-03-10	Request for iPhone Charger	Process
+607	user393	2015-03-18	Request for iPhone 5s	Solved
+817	user394	2015-03-10	Request for GalaXy S 5	Process
+536	user395	2015-03-8	Request for iPhone 5s	Process
+946	user396	2015-03-23	Request for iPhone Charger	Solved
+482	user397	2015-03-24	Request for GalaXy S 5	Solved
+649	user398	2015-03-24	Request for iPad Air	Process
+376	user399	2015-03-28	Request for GalaXy S 5	Solved
+751	user400	2015-03-1	Request for Dell XPS	Solved
+919	user401	2015-03-8	Request for iMac	Process
+799	user402	2015-03-25	Request for Dell XPS	Solved
+714	user403	2015-03-12	Request for Music Player	Process
+688	user404	2015-03-10	Request for Update Invetory for Speakers	Process
+69	user405	2015-03-6	Request for Mice	Solved
+756	user406	2015-03-11	Request for iMac	Solved
+864	user407	2015-03-25	Request for Update Invetory for Speakers	Solved
+310	user408	2015-03-7	Request for iPhone Charger	Solved
+34	user409	2015-03-27	Request for Microst mouse and keyboard	Process
+116	user410	2015-03-17	Request for GalaXy S 5	Solved
+865	user411	2015-03-9	Request for 14 inch tablets	Solved
+332	user412	2015-03-16	Request for Dell XPS	Solved
+175	user413	2015-03-22	Request for Update Invetory for Speakers	Solved
+729	user414	2015-03-19	Request for Microst mouse and keyboard	Solved
+757	user415	2015-03-25	Request for GalaXy S 5	Process
+711	user416	2015-03-18	Request for GalaXy S 5	Process
+222	user417	2015-03-9	Request for Dell XPS	Solved
+299	user418	2015-03-28	Request for iPhone Charger	Process
+717	user419	2015-03-16	Request for GalaXy S 5	Process
+160	user420	2015-03-3	Request for Update Invetory for Speakers	Solved
+529	user421	2015-03-2	Request for Dell XPS	Solved
+606	user422	2015-03-9	Request for Hard Drive- Seagate	Process
+959	user423	2015-03-28	Request for Microst mouse and keyboard	Process
+233	user424	2015-03-2	Request for Hard Drive- Seagate	Solved
+792	user425	2015-03-20	Request for iPhone 5s	Solved
+823	user426	2015-03-17	Request for GalaXy S 5	Solved
+501	user427	2015-03-28	Request for 14 inch tablets	Solved
+308	user428	2015-03-15	Request for Hard Drive- Seagate	Solved
+171	user429	2015-03-24	Request for iPad Air	Process
+550	user430	2015-03-6	Request for Hard Drive- Seagate	Solved
+124	user431	2015-03-19	Request for Hard Drive- Seagate	Solved
+467	user432	2015-03-6	Request for Hard Drive- Seagate	Process
+176	user433	2015-03-20	Request for Dell XPS	Solved
+670	user434	2015-03-15	Request for Music Player	Process
+470	user435	2015-03-15	Request for iPad Air	Solved
+311	user436	2015-03-20	Request for Music Player	Process
+190	user437	2015-03-21	Request for iPhone Charger	Process
+847	user438	2015-03-13	Request for iPhone 5s	Solved
+188	user439	2015-03-23	Request for iPhone 5s	Solved
+126	user440	2015-03-9	Request for Microst mouse and keyboard	Solved
+513	user441	2015-03-5	Request for Music Player	Process
+772	user442	2015-03-20	Request for iPhone Charger	Process
+995	user443	2015-03-8	Request for iPhone Charger	Solved
+91	user444	2015-03-17	Request for iMac	Process
+56	user445	2015-03-26	Request for Mice	Solved
+90	user446	2015-03-11	Request for Hard Drive- Seagate	Solved
+180	user447	2015-03-15	Request for Microst mouse and keyboard	Process
+70	user448	2015-03-23	Request for 14 inch tablets	Solved
+411	user449	2015-03-19	Request for iMac	Process
+640	user450	2015-03-24	Request for Dell XPS	Process
+639	user451	2015-03-16	Request for Mice	Process
+331	user452	2015-03-1	Request for Dell XPS	Process
+348	user453	2015-03-1	Request for Hard Drive- Seagate	Solved
+999	user454	2015-03-21	Request for Music Player	Solved
+596	user455	2015-03-12	Request for Microst mouse and keyboard	Solved
+854	user456	2015-03-19	Request for Hard Drive- Seagate	Solved
+86	user457	2015-03-23	Request for Dell XPS	Process
+194	user458	2015-03-26	Request for Microst mouse and keyboard	Process
+757	user459	2015-03-17	Request for Microst mouse and keyboard	Process
+600	user460	2015-03-9	Request for GalaXy S 5	Process
+40	user461	2015-03-12	Request for iMac	Process
+401	user462	2015-03-12	Request for iMac	Solved
+681	user463	2015-03-23	Request for iPhone 5s	Process
+658	user464	2015-03-14	Request for Hard Drive- Seagate	Process
+101	user465	2015-03-7	Request for Microst mouse and keyboard	Process
+246	user466	2015-03-15	Request for Microst mouse and keyboard	Process
+284	user467	2015-03-13	Request for Music Player	Process
+875	user468	2015-03-28	Request for GalaXy S 5	Process
+230	user469	2015-03-3	Request for 14 inch tablets	Solved
+682	user470	2015-03-8	Request for Mice	Process
+333	user471	2015-03-1	Request for Microst mouse and keyboard	Solved
+433	user472	2015-03-2	Request for Hard Drive- Seagate	Process
+653	user473	2015-03-4	Request for Update Invetory for Speakers	Solved
+804	user474	2015-03-12	Request for iPhone Charger	Process
+858	user475	2015-03-12	Request for Update Invetory for Speakers	Process
+136	user476	2015-03-25	Request for iPad Air	Solved
+111	user477	2015-03-2	Request for Dell XPS	Solved
+271	user478	2015-03-11	Request for Microst mouse and keyboard	Solved
+89	user479	2015-03-12	Request for Hard Drive- Seagate	Solved
+309	user480	2015-03-18	Request for Music Player	Process
+115	user481	2015-03-23	Request for Dell XPS	Solved
+229	user482	2015-03-26	Request for Music Player	Process
+656	user483	2015-03-15	Request for Mice	Process
+973	user484	2015-03-10	Request for iMac	Solved
+503	user485	2015-03-2	Request for GalaXy S 5	Solved
+875	user486	2015-03-20	Request for Hard Drive- Seagate	Process
+299	user487	2015-03-26	Request for Music Player	Process
+474	user488	2015-03-25	Request for Microst mouse and keyboard	Solved
+770	user489	2015-03-21	Request for Mice	Process
+450	user490	2015-03-18	Request for GalaXy S 5	Process
+823	user491	2015-03-23	Request for Music Player	Solved
+866	user492	2015-03-20	Request for Mice	Process
+627	user493	2015-03-28	Request for iPhone Charger	Process
+421	user494	2015-03-20	Request for iPhone Charger	Solved
+341	user495	2015-03-9	Request for iMac	Process
+263	user496	2015-03-24	Request for iPhone 5s	Solved
+140	user497	2015-03-9	Request for GalaXy S 5	Solved
+940	user498	2015-03-3	Request for Music Player	Solved
+636	user499	2015-03-23	Request for iPhone Charger	Solved
+232	user500	2015-03-21	Request for Update Invetory for Speakers	Solved
+70	user501	2015-03-26	Request for Mice	Solved
+877	user502	2015-03-10	Request for Hard Drive- Seagate	Solved
+987	user503	2015-03-3	Request for iPhone Charger	Solved
+566	user504	2015-03-19	Request for Hard Drive- Seagate	Process
+365	user505	2015-03-10	Request for iPhone Charger	Process
+724	user506	2015-03-12	Request for Music Player	Process
+264	user507	2015-03-4	Request for 14 inch tablets	Solved
+72	user508	2015-03-22	Request for Mice	Process
+874	user509	2015-03-8	Request for iPhone Charger	Solved
+438	user510	2015-03-1	Request for Mice	Solved
+846	user511	2015-03-20	Request for iPhone 5s	Process
+939	user512	2015-03-10	Request for Hard Drive- Seagate	Process
+335	user513	2015-03-2	Request for Dell XPS	Process
+373	user514	2015-03-10	Request for Hard Drive- Seagate	Solved
+851	user515	2015-03-28	Request for GalaXy S 5	Solved
+751	user516	2015-03-3	Request for Music Player	Process
+109	user517	2015-03-15	Request for Dell XPS	Solved
+410	user518	2015-03-22	Request for iPhone 5s	Process
+927	user519	2015-03-12	Request for iPhone 5s	Process
+555	user520	2015-03-26	Request for GalaXy S 5	Solved
+33	user521	2015-03-9	Request for 14 inch tablets	Solved
+766	user522	2015-03-11	Request for Music Player	Solved
+891	user523	2015-03-9	Request for iPhone 5s	Process
+675	user524	2015-03-10	Request for iMac	Process
+391	user525	2015-03-21	Request for Mice	Solved
+758	user526	2015-03-17	Request for Mice	Solved
+458	user527	2015-03-27	Request for GalaXy S 5	Solved
+142	user528	2015-03-25	Request for GalaXy S 5	Process
+685	user529	2015-03-2	Request for iMac	Process
+842	user530	2015-03-23	Request for iPad Air	Solved
+130	user531	2015-03-18	Request for Mice	Solved
+377	user532	2015-03-25	Request for iMac	Process
+304	user533	2015-03-15	Request for iPhone Charger	Solved
+182	user534	2015-03-15	Request for 14 inch tablets	Solved
+672	user535	2015-03-20	Request for iPhone 5s	Process
+93	user536	2015-03-18	Request for Music Player	Solved
+788	user537	2015-03-9	Request for Microst mouse and keyboard	Process
+488	user538	2015-03-1	Request for GalaXy S 5	Solved
+706	user539	2015-03-4	Request for Microst mouse and keyboard	Process
+447	user540	2015-03-1	Request for Music Player	Solved
+447	user541	2015-03-14	Request for iPhone 5s	Solved
+565	user542	2015-03-2	Request for iPhone Charger	Solved
+889	user543	2015-03-19	Request for Update Invetory for Speakers	Process
+169	user544	2015-03-24	Request for iPhone 5s	Solved
+548	user545	2015-03-15	Request for Music Player	Process
+358	user546	2015-03-18	Request for 14 inch tablets	Solved
+504	user547	2015-03-17	Request for iPhone Charger	Process
+545	user548	2015-03-28	Request for Microst mouse and keyboard	Process
+983	user549	2015-03-18	Request for iMac	Solved
+608	user550	2015-03-12	Request for Update Invetory for Speakers	Solved
+716	user551	2015-03-22	Request for iPhone Charger	Solved
+819	user552	2015-03-9	Request for iPad Air	Process
+292	user553	2015-03-28	Request for Music Player	Process
+143	user554	2015-03-4	Request for 14 inch tablets	Solved
+192	user555	2015-03-3	Request for GalaXy S 5	Process
+653	user556	2015-03-3	Request for GalaXy S 5	Solved
+535	user557	2015-03-20	Request for 14 inch tablets	Solved
+416	user558	2015-03-18	Request for Music Player	Process
+145	user559	2015-03-3	Request for GalaXy S 5	Process
+291	user560	2015-03-9	Request for Microst mouse and keyboard	Solved
+383	user561	2015-03-22	Request for Mice	Solved
+524	user562	2015-03-10	Request for iPad Air	Process
+488	user563	2015-03-3	Request for GalaXy S 5	Process
+931	user564	2015-03-13	Request for Microst mouse and keyboard	Solved
+58	user565	2015-03-2	Request for iMac	Process
+104	user566	2015-03-15	Request for Mice	Solved
+81	user567	2015-03-15	Request for iPhone 5s	Solved
+265	user568	2015-03-25	Request for iMac	Solved
+25	user569	2015-03-16	Request for Dell XPS	Process
+974	user570	2015-03-19	Request for Hard Drive- Seagate	Process
+354	user571	2015-03-9	Request for iPad Air	Solved
+698	user572	2015-03-11	Request for Dell XPS	Process
+189	user573	2015-03-15	Request for iPhone Charger	Solved
+351	user574	2015-03-24	Request for Mice	Solved
+336	user575	2015-03-19	Request for iMac	Process
+399	user576	2015-03-13	Request for Update Invetory for Speakers	Solved
+561	user577	2015-03-7	Request for iPad Air	Solved
+353	user578	2015-03-21	Request for GalaXy S 5	Solved
+392	user579	2015-03-27	Request for iPad Air	Solved
+909	user580	2015-03-2	Request for Microst mouse and keyboard	Process
+453	user581	2015-03-22	Request for Microst mouse and keyboard	Solved
+455	user582	2015-03-3	Request for Mice	Process
+690	user583	2015-03-2	Request for GalaXy S 5	Process
+238	user584	2015-03-27	Request for Music Player	Solved
+316	user585	2015-03-17	Request for iPhone Charger	Solved
+636	user586	2015-03-25	Request for iPad Air	Process
+366	user587	2015-03-27	Request for Microst mouse and keyboard	Process
+76	user588	2015-03-18	Request for Dell XPS	Process
+178	user589	2015-03-21	Request for iPad Air	Process
+789	user590	2015-03-5	Request for GalaXy S 5	Solved
+873	user591	2015-03-20	Request for iPhone 5s	Solved
+488	user592	2015-03-18	Request for iPhone Charger	Solved
+926	user593	2015-03-19	Request for Mice	Solved
+287	user594	2015-03-20	Request for Microst mouse and keyboard	Process
+679	user595	2015-03-13	Request for iPhone 5s	Process
+42	user596	2015-03-21	Request for iPad Air	Solved
+431	user597	2015-03-5	Request for 14 inch tablets	Process
+538	user598	2015-03-27	Request for Dell XPS	Process
+833	user599	2015-03-15	Request for Dell XPS	Solved
+293	user600	2015-03-15	Request for Hard Drive- Seagate	Process
+446	user601	2015-03-1	Request for iMac	Solved
+552	user602	2015-03-13	Request for Music Player	Process
+612	user603	2015-03-8	Request for iPhone 5s	Solved
+835	user604	2015-03-9	Request for iMac	Solved
+870	user605	2015-03-11	Request for iPhone Charger	Solved
+365	user606	2015-03-6	Request for iMac	Solved
+924	user607	2015-03-22	Request for iPhone Charger	Process
+209	user608	2015-03-14	Request for GalaXy S 5	Process
+291	user609	2015-03-20	Request for 14 inch tablets	Solved
+741	user610	2015-03-4	Request for Music Player	Process
+66	user611	2015-03-15	Request for 14 inch tablets	Process
+164	user612	2015-03-5	Request for iPhone Charger	Solved
+836	user613	2015-03-15	Request for iPad Air	Solved
+904	user614	2015-03-24	Request for Update Invetory for Speakers	Solved
+673	user615	2015-03-10	Request for GalaXy S 5	Process
+33	user616	2015-03-11	Request for Mice	Process
+564	user617	2015-03-16	Request for Dell XPS	Solved
+582	user618	2015-03-9	Request for iPhone 5s	Process
+814	user619	2015-03-15	Request for iPhone 5s	Process
+527	user620	2015-03-13	Request for Mice	Solved
+294	user621	2015-03-27	Request for GalaXy S 5	Solved
+266	user622	2015-03-26	Request for iMac	Process
+512	user623	2015-03-17	Request for Update Invetory for Speakers	Solved
+66	user624	2015-03-23	Request for Microst mouse and keyboard	Solved
+807	user625	2015-03-8	Request for iPhone 5s	Process
+421	user626	2015-03-19	Request for GalaXy S 5	Solved
+688	user627	2015-03-5	Request for GalaXy S 5	Process
+523	user628	2015-03-13	Request for iPad Air	Solved
+501	user629	2015-03-28	Request for 14 inch tablets	Solved
+738	user630	2015-03-24	Request for Mice	Solved
+478	user631	2015-03-21	Request for iPad Air	Process
+570	user632	2015-03-23	Request for 14 inch tablets	Solved
+399	user633	2015-03-27	Request for Update Invetory for Speakers	Solved
+505	user634	2015-03-17	Request for iPhone Charger	Solved
+953	user635	2015-03-2	Request for 14 inch tablets	Process
+492	user636	2015-03-3	Request for Mice	Process
+49	user637	2015-03-26	Request for GalaXy S 5	Solved
+409	user638	2015-03-9	Request for Mice	Process
+621	user639	2015-03-15	Request for iPhone Charger	Process
+503	user640	2015-03-16	Request for iPad Air	Solved
+683	user641	2015-03-9	Request for iMac	Solved
+843	user642	2015-03-3	Request for Microst mouse and keyboard	Solved
+341	user643	2015-03-9	Request for Mice	Solved
+519	user644	2015-03-23	Request for iPhone 5s	Solved
+420	user645	2015-03-25	Request for 14 inch tablets	Solved
+79	user646	2015-03-7	Request for iPad Air	Process
+146	user647	2015-03-14	Request for iPhone 5s	Solved
+591	user648	2015-03-5	Request for Microst mouse and keyboard	Solved
+915	user649	2015-03-7	Request for iPhone Charger	Process
+439	user650	2015-03-28	Request for Music Player	Solved
+141	user651	2015-03-24	Request for Hard Drive- Seagate	Process
+292	user652	2015-03-2	Request for Microst mouse and keyboard	Solved
+707	user653	2015-03-9	Request for Hard Drive- Seagate	Process
+102	user654	2015-03-16	Request for Dell XPS	Solved
+694	user655	2015-03-15	Request for 14 inch tablets	Solved
+627	user656	2015-03-9	Request for Update Invetory for Speakers	Process
+995	user657	2015-03-7	Request for 14 inch tablets	Process
+123	user658	2015-03-13	Request for Mice	Solved
+93	user659	2015-03-14	Request for iPhone 5s	Process
+337	user660	2015-03-10	Request for iMac	Process
+463	user661	2015-03-10	Request for Music Player	Solved
+153	user662	2015-03-18	Request for Hard Drive- Seagate	Process
+172	user663	2015-03-12	Request for GalaXy S 5	Solved
+962	user664	2015-03-28	Request for Update Invetory for Speakers	Solved
+171	user665	2015-03-18	Request for Microst mouse and keyboard	Process
+253	user666	2015-03-22	Request for iPad Air	Process
+121	user667	2015-03-17	Request for iMac	Process
+872	user668	2015-03-14	Request for Microst mouse and keyboard	Process
+315	user669	2015-03-5	Request for 14 inch tablets	Solved
+917	user670	2015-03-7	Request for iPad Air	Solved
+956	user671	2015-03-8	Request for Dell XPS	Process
+58	user672	2015-03-11	Request for Hard Drive- Seagate	Solved
+664	user673	2015-03-7	Request for Dell XPS	Process
+816	user674	2015-03-22	Request for iPad Air	Solved
+528	user675	2015-03-21	Request for Music Player	Solved
+171	user676	2015-03-13	Request for iMac	Process
+222	user677	2015-03-21	Request for Microst mouse and keyboard	Process
+707	user678	2015-03-17	Request for Update Invetory for Speakers	Process
+74	user679	2015-03-22	Request for Dell XPS	Solved
+173	user680	2015-03-14	Request for Update Invetory for Speakers	Solved
+402	user681	2015-03-1	Request for GalaXy S 5	Solved
+604	user682	2015-03-12	Request for iPad Air	Process
+699	user683	2015-03-2	Request for 14 inch tablets	Process
+942	user684	2015-03-28	Request for Microst mouse and keyboard	Process
+286	user685	2015-03-10	Request for 14 inch tablets	Process
+40	user686	2015-03-8	Request for GalaXy S 5	Process
+596	user687	2015-03-25	Request for Mice	Solved
+148	user688	2015-03-17	Request for iPad Air	Process
+347	user689	2015-03-6	Request for Mice	Solved
+101	user690	2015-03-22	Request for GalaXy S 5	Process
+689	user691	2015-03-28	Request for iPhone 5s	Process
+231	user692	2015-03-23	Request for GalaXy S 5	Process
+577	user693	2015-03-8	Request for Dell XPS	Solved
+150	user694	2015-03-22	Request for iMac	Process
+316	user695	2015-03-13	Request for 14 inch tablets	Process
+893	user696	2015-03-16	Request for Dell XPS	Solved
+870	user697	2015-03-4	Request for Microst mouse and keyboard	Solved
+328	user698	2015-03-3	Request for Microst mouse and keyboard	Solved
+36	user699	2015-03-4	Request for iMac	Process
+679	user700	2015-03-9	Request for Mice	Process
+137	user701	2015-03-14	Request for Music Player	Process
+80	user702	2015-03-26	Request for Music Player	Process
+628	user703	2015-03-28	Request for Music Player	Solved
+797	user704	2015-03-11	Request for GalaXy S 5	Process
+328	user705	2015-03-18	Request for Update Invetory for Speakers	Process
+568	user706	2015-03-6	Request for iPhone Charger	Process
+259	user707	2015-03-3	Request for Update Invetory for Speakers	Process
+300	user708	2015-03-3	Request for 14 inch tablets	Solved
+145	user709	2015-03-18	Request for Update Invetory for Speakers	Solved
+945	user710	2015-03-9	Request for iPad Air	Process
+412	user711	2015-03-1	Request for Update Invetory for Speakers	Process
+198	user712	2015-03-13	Request for Music Player	Process
+245	user713	2015-03-25	Request for Music Player	Process
+693	user714	2015-03-5	Request for Dell XPS	Process
+600	user715	2015-03-4	Request for iPhone Charger	Solved
+877	user716	2015-03-23	Request for Update Invetory for Speakers	Process
+642	user717	2015-03-2	Request for iPad Air	Process
+480	user718	2015-03-4	Request for iMac	Process
+767	user719	2015-03-15	Request for Mice	Solved
+317	use
